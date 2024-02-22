@@ -1,0 +1,91 @@
+<section class="services-one" id="services">
+            <div class="container">
+                <div class="section-title text-center">
+                    <div class="section-title__tagline-box">
+                        <div class="section-title__tagline-icon">
+                            <img src="assets/images/icon/section-title-icon.png" alt="image">
+                        </div>
+                        <p class="section-title__tagline">What We Offer</p>
+                    </div>
+                    <h2 class="section-title__title">The Future of Intelligence</h2>
+                </div>
+                <div class="services-one__inner">
+                    <ul class="services-one__services-list list-unstyled">
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-coding"></span>
+                                </div>
+                                <h3 class="services-one__title">AI Tools 
+                                    <br> Customization</a></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-cloud-database"></span>
+                                </div>
+                                <h3 class="services-one__title">Narrative  
+                                    <br> Intelligence  </a></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-ux-design"></span>
+                                </div>
+                                <h3 class="services-one__title">Transformative
+                                        <br> Intelligence</a></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-cyber-security"></span>
+                                </div>
+                                <h3 class="services-one__title">Strategic 
+                                        <br> Intelligence</a></h3>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class="services-one__services-list list-unstyled">
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-event-management"></span>
+                                </div>
+                                <h3 class="services-one__title">Cloud Migration 
+                                        <br> Management</a></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-content-management-1"></span>
+                                </div>
+                                <h3 class="services-one__title">Digital 
+                                    <br> Transformation     </a></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-cyber-security"></span>
+                                </div>
+                                <h3 class="services-one__title">Cyber
+                                        <br> Security</a></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="services-one__single">
+                                <div class="services-one__icon">
+                                    <span class="icon-backup"></span>
+                                </div>
+                                <h3 class="services-one__title">And many                                     
+                                        <br> more</a></h3>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>

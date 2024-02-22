@@ -3606,9 +3606,10 @@ ul {
   display: block;
   background-color: #040405;
   padding: 260px 0 120px;
-  margin-top: -160px;
   z-index: 1;
+  text-align: center; /* Center the content horizontally */
 }
+
 
 .services-one .section-title__tagline-box {
   justify-content: center;
@@ -3619,9 +3620,15 @@ ul {
 }
 
 .services-one__inner {
+  max-width: 1200px;
+  margin: 0 auto;
   position: relative;
-  display: block;
-  padding: 95px 124px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh; /* Set a minimum height to make sure it covers the viewport height */
+  padding: 20px;
   background-color: var(--zeena-white);
 }
 
@@ -3636,22 +3643,22 @@ ul {
 .services-one__services-list li {
   position: relative;
   flex: 0 0 25%;
-  max-width: 25%;
+  max-width: 100%;
   width: 100%;
   padding: 0 15px;
 }
 
 .services-one__single {
-  position: relative;
-  display: block;
-  text-align: center;
-  border-radius: 5px;
+  width: 1000px; /* Set the width to 100% */
+  max-width: 1000px; /* Set the maximum width of the box */
+  margin: 0; /* Remove margin for centering */
+  padding: 0px 20px 0 px;
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.05);
   border: 1px solid #f2f4fb;
-  margin-bottom: 30px;
-  padding: 45px 20px 35px;
+  border-radius: 5px;
   z-index: 1;
+  box-sizing: border-box;
 }
 
 .services-one__single::before {
