@@ -3134,13 +3134,14 @@ ul {
   position: absolute;
   top: 107px;
   right: -145px;
+ 
 }
 
 .about-one__experience-text p {
   font-size: 16px;
   font-weight: 600;
   line-height: 26px;
-  color: rgba(106, 107, 113, .45);
+  color: red;
   letter-spacing: 0.2em;
   transform: rotate(90deg);
   text-transform: uppercase;
